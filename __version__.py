@@ -10,7 +10,7 @@ Semantic Versioning (语义化版本控制)
 
 __title__ = "Script-Pilot"
 __description__ = "Python 瘦壳启动器生成引擎 (Thin-Shell Launcher Generator)"
-__version__ = "0.1.0-alpha"
+__version__ = "0.2.0"
 __author__ = "The Commander & Genesis Architect"
 __license__ = "MIT"
 
